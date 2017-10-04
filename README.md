@@ -1,0 +1,1 @@
+Main.js is a JavScript file meant to solve a homework problem with https://repl.it as the target UI. Main.js contains notes about the purpose and intent of the file. Open the file in a text editor to view notes and instructions.
